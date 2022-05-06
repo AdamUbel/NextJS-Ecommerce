@@ -35,7 +35,7 @@ yarn-error.log*
 .vercel
 
 /dist
-yarn.lock
+# yarn.lock
 psd
 thumb
 sketch
