@@ -27,7 +27,7 @@ Our ecommerce site is live and can be accessed [here](https://next-js-ecommerce-
 
 To set up the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/next-ecommerce.git`
+1. Clone the repository: `git clone https://github.com/AdamUbel/NextJS-Ecommerce.git`
 2. Navigate to the project directory: `cd next-ecommerce`
 3. Install the dependencies: `npm install`
 4. Set up environment variables:
